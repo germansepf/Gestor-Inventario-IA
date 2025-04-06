@@ -17,6 +17,14 @@ El programa automatiza el procesamiento del inventario diario de productos, gene
 - ✅ Interfaz gráfica amigable desarrollada con Tkinter.
 
 ---
+¿Por qué se hizo este programa? 
+La empresa realiza cambios constantes en su inventario. El procesamiento manual del archivo 
+diario con más de 200 productos, sin nombres ni descripciones claras, resultaba lento e 
+ineficiente. Este programa: 
+• Ahorra tiempo. 
+• Mejora la calidad del catálogo. 
+• Centraliza la automatización. 
+• Reduce el margen de error humano. 
 
 ## 🛠️ Tecnologías usadas
 
@@ -53,5 +61,3 @@ Ejecuta el archivo gui.py (o el ejecutable si ya fue compilado).
 3. Haz clic en “Generar con IA”.
 4. Guarda el archivo final.
 
-⚖️ Licencia
-Este software fue desarrollado como encargo exclusivo para Conexiones Celulares. No se permite su distribución sin autorización previa.
