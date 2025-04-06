@@ -20,11 +20,12 @@ El programa automatiza el procesamiento del inventario diario de productos, gene
  ## ⁉ ¿Por qué se hizo este programa? 
 La empresa realiza cambios constantes en su inventario. El procesamiento manual del archivo 
 diario con más de 200 productos, sin nombres ni descripciones claras, resultaba lento e 
-ineficiente. Este programa: 
-• Ahorra tiempo. 
-• Mejora la calidad del catálogo. 
-• Centraliza la automatización. 
-• Reduce el margen de error humano. 
+ineficiente. Este programa:
+
+- Ahorra tiempo
+- Mejora la calidad del catálogo 
+- Centraliza la automatización
+- Reduce el margen de error humano
 
 ## 🛠️ Tecnologías usadas
 
